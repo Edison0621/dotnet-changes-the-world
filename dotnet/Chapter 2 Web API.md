@@ -1,10 +1,14 @@
 ## Articles
-
-pending....
+* [Implement ASP.NET Core OpenID Connect OAuth PAR client with Keycloak using .NET Aspire](https://damienbod.com/2024/09/02/implement-asp-net-core-openid-connect-oauth-par-client-with-keycloak-using-net-aspire/)
+* [RESTful web API design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [Web API implementation](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
+* [REST API Tutorial](https://restfulapi.net/)
+* [Build a RESTful Web API using .NET 8](https://medium.com/@chandrashekharsingh25/build-a-restful-web-api-with-net-8-44fc93b36618)
+* [14 Best Practices for Designing RESTful APIs | .NET Core Web API](https://medium.com/@jeslurrahman/14-best-practices-for-designing-restful-apis-net-core-web-api-1f34d6b8303e)
+* [Graphql Docs](https://graphql-dotnet.github.io/)
 
 ### Videos
-
-pending....
+* [ASP.NET 8 REST API Tutorial - The "Sweet Spot" Architecture](https://www.youtube.com/watch?v=Ms0dFXx3OMc)
 
 ## Web API
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tooling for APIs built with ASP.NET Core. Generate beautiful API documentation, including a UI to explore and test operations, directly from your routes, controllers and models.
