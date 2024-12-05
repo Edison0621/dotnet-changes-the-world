@@ -1,6 +1,6 @@
 ## dotnet-changes-the-world
-The pages of dotnet architectrue, frameworks, libraries, tools, industry applications and thoughts.
-Forcusing on how to use dotnet to change the world, I think we need the basic knowledges, basic theories, mechanisms and the infinitely close the actual demos. Please help me to complete this plan.
+The pages for dotnet architectrue, frameworks, libraries, tools, industry applications and thoughts. <br/>
+Inspired by awesome-dotnet series, this project will forcus on how to use dotnet to change the world. So we need the basic knowledges, basic theories, mechanisms and the infinitely close the actual demos. Please help me complete this plan.
 
 ## Contents
 * Prepare
